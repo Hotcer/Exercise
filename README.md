@@ -1,0 +1,2 @@
+# Exercise
+Curso basico Python
